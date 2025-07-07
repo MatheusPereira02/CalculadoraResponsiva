@@ -13,7 +13,7 @@ Uma calculadora moderna, responsiva e estilizada, feita com HTML, CSS e JavaScri
 ---
 ## 📸 Captura de Tela
 
-![Exemplo do Calculadora Responsiva](https://imgur.com/a/U4gKkdf.png)
+![Exemplo do Calculadora Responsiva](https://i.imgur.com/Tp2p1wN.png)
 
 ## 📂 Estrutura de Arquivos
 /calculadora
