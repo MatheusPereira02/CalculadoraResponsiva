@@ -33,8 +33,3 @@ Uma calculadora moderna, responsiva e estilizada, feita com HTML, CSS e JavaScri
 
 ---
 
-## 📜 Como Usar
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
