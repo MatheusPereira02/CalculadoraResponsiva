@@ -11,6 +11,9 @@ Uma calculadora moderna, responsiva e estilizada, feita com HTML, CSS e JavaScri
 ✅ Botões com design moderno (sombra, cores vivas para operadores)  
 
 ---
+## 📸 Captura de Tela
+
+![Exemplo do Calculadora Responsiva](https://imgur.com/a/U4gKkdf)
 
 ## 📂 Estrutura de Arquivos
 /calculadora
